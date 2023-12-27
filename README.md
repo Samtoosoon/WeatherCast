@@ -3,10 +3,14 @@
 STEPS TO RUN THE CODE:
 
 Go to https://openweathermap.org
-1.Create a free account
+1.Create a free account 
+
 2.Navigate to the API keys section
+
 3.Generate a key
+
 4.Copy that key to clipboard
+
 5.Insert that key into the required variable in the script.js file
 
 
